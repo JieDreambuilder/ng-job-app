@@ -30,7 +30,7 @@
  ![regPNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/reg.png)
  ![indexPNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/index.png)
  ![morePNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/more.png)
- ![selectPNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/select.jpg)
+ ![selectPNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/select.png)
  ![mePNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/me.png)
  ![handinPNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/handin.png)
  ![starPNG](https://github.com/JieDreambuilder/ng-job-app/blob/master/readmeImg/star.png)
